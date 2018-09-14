@@ -1,0 +1,16 @@
+Logs
+===========================================================================
+New cookie accept from 127.0.0.1 at Friday 14th of September 2018 05:30:19 PM
+======================
+username=Null Byte
+======================
+
+New cookie accept from 127.0.0.1 at Friday 14th of September 2018 05:32:17 PM
+======================
+username=Null Byte
+======================
+
+New cookie accept from 127.0.0.1 at Friday 14th of September 2018 05:33:01 PM
+======================
+username=Null Byte
+======================

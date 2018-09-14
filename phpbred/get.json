@@ -1,0 +1,7 @@
+type: "get",
+url: "http://google.com",
+crossDomain: true,
+dataType: 'json',
+xhrFields: {
+  withCredentials: true
+}
