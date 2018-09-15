@@ -1,0 +1,12 @@
+E:\VSProjects\repos\TCPLoxsChat\Client\bin\Debug\Client.exe.config
+E:\VSProjects\repos\TCPLoxsChat\Client\bin\Debug\Client.exe
+E:\VSProjects\repos\TCPLoxsChat\Client\bin\Debug\Client.pdb
+E:\VSProjects\repos\TCPLoxsChat\Client\bin\Debug\SimpleTCP.dll
+E:\VSProjects\repos\TCPLoxsChat\Client\obj\Debug\Client.Form1.resources
+E:\VSProjects\repos\TCPLoxsChat\Client\obj\Debug\Client.Properties.Resources.resources
+E:\VSProjects\repos\TCPLoxsChat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\VSProjects\repos\TCPLoxsChat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\VSProjects\repos\TCPLoxsChat\Client\obj\Debug\Client.csproj.CopyComplete
+E:\VSProjects\repos\TCPLoxsChat\Client\obj\Debug\Client.exe
+E:\VSProjects\repos\TCPLoxsChat\Client\obj\Debug\Client.pdb
+E:\VSProjects\repos\TCPLoxsChat\Client\obj\Debug\Client.csprojAssemblyReference.cache

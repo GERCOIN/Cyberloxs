@@ -1,0 +1,12 @@
+E:\VSProjects\repos\TCPLoxsChat\TCPLoxsChat\bin\Debug\TCPLoxsChat.exe.config
+E:\VSProjects\repos\TCPLoxsChat\TCPLoxsChat\bin\Debug\TCPLoxsChat.exe
+E:\VSProjects\repos\TCPLoxsChat\TCPLoxsChat\bin\Debug\TCPLoxsChat.pdb
+E:\VSProjects\repos\TCPLoxsChat\TCPLoxsChat\bin\Debug\SimpleTCP.dll
+E:\VSProjects\repos\TCPLoxsChat\TCPLoxsChat\obj\Debug\TCPLoxsChat.csprojAssemblyReference.cache
+E:\VSProjects\repos\TCPLoxsChat\TCPLoxsChat\obj\Debug\TCPLoxsChat.Form1.resources
+E:\VSProjects\repos\TCPLoxsChat\TCPLoxsChat\obj\Debug\TCPLoxsChat.Properties.Resources.resources
+E:\VSProjects\repos\TCPLoxsChat\TCPLoxsChat\obj\Debug\TCPLoxsChat.csproj.GenerateResource.cache
+E:\VSProjects\repos\TCPLoxsChat\TCPLoxsChat\obj\Debug\TCPLoxsChat.csproj.CoreCompileInputs.cache
+E:\VSProjects\repos\TCPLoxsChat\TCPLoxsChat\obj\Debug\TCPLoxsChat.csproj.CopyComplete
+E:\VSProjects\repos\TCPLoxsChat\TCPLoxsChat\obj\Debug\TCPLoxsChat.exe
+E:\VSProjects\repos\TCPLoxsChat\TCPLoxsChat\obj\Debug\TCPLoxsChat.pdb
