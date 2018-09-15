@@ -20,7 +20,7 @@ namespace Client
 
 		SimpleTcpClient client;
 
-		private void btnConnect_Click(object sender, EventArgs e)
+		private void BtnConnect_Click(object sender, EventArgs e)
 		{
 			btnConnect.Enabled = false;
 			client.Connect(txtHost.Text, Convert.ToInt32(txtPort.Text));
@@ -28,8 +28,10 @@ namespace Client
 
 		private void Form1_Load(object sender, EventArgs e)
 		{
-			client = new SimpleTcpClient();
-			client.StringEncoder = Encoding.UTF8;
+			client = new SimpleTcpClient
+			{
+				StringEncoder = Encoding.UTF8
+			};
 			client.DataReceived += Client_DataReceived;
 		}
 
@@ -41,7 +43,7 @@ namespace Client
 			});
 		}
 
-		private void btnSend_Click(object sender, EventArgs e)
+		private void BtnSend_Click(object sender, EventArgs e)
 		{
 			client.WriteLineAndGetReply(txtMessage.Text, TimeSpan.FromSeconds(1));
 			txtMessage.Text = "";

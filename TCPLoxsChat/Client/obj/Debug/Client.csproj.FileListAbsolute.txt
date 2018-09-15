@@ -10,3 +10,15 @@ E:\VSProjects\repos\TCPLoxsChat\Client\obj\Debug\Client.csproj.CopyComplete
 E:\VSProjects\repos\TCPLoxsChat\Client\obj\Debug\Client.exe
 E:\VSProjects\repos\TCPLoxsChat\Client\obj\Debug\Client.pdb
 E:\VSProjects\repos\TCPLoxsChat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\repos\Cyberloxs\TCPLoxsChat\Client\bin\Debug\Client.exe.config
+E:\repos\Cyberloxs\TCPLoxsChat\Client\bin\Debug\Client.exe
+E:\repos\Cyberloxs\TCPLoxsChat\Client\bin\Debug\Client.pdb
+E:\repos\Cyberloxs\TCPLoxsChat\Client\bin\Debug\SimpleTCP.dll
+E:\repos\Cyberloxs\TCPLoxsChat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\repos\Cyberloxs\TCPLoxsChat\Client\obj\Debug\Client.Form1.resources
+E:\repos\Cyberloxs\TCPLoxsChat\Client\obj\Debug\Client.Properties.Resources.resources
+E:\repos\Cyberloxs\TCPLoxsChat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\repos\Cyberloxs\TCPLoxsChat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\repos\Cyberloxs\TCPLoxsChat\Client\obj\Debug\Client.csproj.CopyComplete
+E:\repos\Cyberloxs\TCPLoxsChat\Client\obj\Debug\Client.exe
+E:\repos\Cyberloxs\TCPLoxsChat\Client\obj\Debug\Client.pdb

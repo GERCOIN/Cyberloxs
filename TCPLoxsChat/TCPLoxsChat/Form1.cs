@@ -22,9 +22,11 @@ namespace TCPLoxsChat
 
 		private void Form1_Load(object sender, EventArgs e)
 		{
-			server = new SimpleTcpServer();
-			server.Delimiter = 0x13;
-			server.StringEncoder = Encoding.UTF8;
+			server = new SimpleTcpServer
+			{
+				Delimiter = 0x13,
+				StringEncoder = Encoding.UTF8
+			};
 			server.DataReceived += Server_DataRecieved;
 		}
 
@@ -37,7 +39,7 @@ namespace TCPLoxsChat
 			});
 		}
 
-		private void btnStart_Click(object sender, EventArgs e)
+		private void BtnStart_Click(object sender, EventArgs e)
 		{
 			txtStatus.Text += "Server is starting...0x0A";
 			System.Net.IPAddress ip = System.Net.IPAddress.Parse(txtHost.Text);
@@ -47,7 +49,7 @@ namespace TCPLoxsChat
 			else txtStatus.Text += "Start failed.";
 		}
 
-		private void btnStop_Click(object sender, EventArgs e)
+		private void BtnStop_Click(object sender, EventArgs e)
 		{
 			if (server.IsStarted)
 			{

@@ -45,7 +45,7 @@
 			this.btnStart.TabIndex = 0;
 			this.btnStart.Text = "Запустить";
 			this.btnStart.UseVisualStyleBackColor = true;
-			this.btnStart.Click += new System.EventHandler(this.btnStart_Click);
+			this.btnStart.Click += new System.EventHandler(this.BtnStart_Click);
 			// 
 			// label1
 			// 
@@ -72,7 +72,7 @@
 			this.btnStop.TabIndex = 3;
 			this.btnStop.Text = "Остановить";
 			this.btnStop.UseVisualStyleBackColor = true;
-			this.btnStop.Click += new System.EventHandler(this.btnStop_Click);
+			this.btnStop.Click += new System.EventHandler(this.BtnStop_Click);
 			// 
 			// txtPort
 			// 

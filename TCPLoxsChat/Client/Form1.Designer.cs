@@ -64,7 +64,7 @@
 			this.btnConnect.TabIndex = 3;
 			this.btnConnect.Text = "Присоединиться";
 			this.btnConnect.UseVisualStyleBackColor = true;
-			this.btnConnect.Click += new System.EventHandler(this.btnConnect_Click);
+			this.btnConnect.Click += new System.EventHandler(this.BtnConnect_Click);
 			// 
 			// txtPort
 			// 
@@ -99,7 +99,7 @@
 			this.btnSend.TabIndex = 9;
 			this.btnSend.Text = "Отправить";
 			this.btnSend.UseVisualStyleBackColor = true;
-			this.btnSend.Click += new System.EventHandler(this.btnSend_Click);
+			this.btnSend.Click += new System.EventHandler(this.BtnSend_Click);
 			// 
 			// txtStatus
 			// 
